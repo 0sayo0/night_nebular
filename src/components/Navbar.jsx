@@ -6,7 +6,7 @@ function Navbar() {
     <>
       <nav className="bg-[#4a47a3] flex flex-row justify-between items-center w-full text-center gap-10 p-4">
         <Link to={"/"} className="flex ml-10 justify-center items-center">
-          <img src="logoNN.png" className="w-16" alt="Night Nebular" />
+          <img src="/img/logoNN.png" className="w-16" alt="Night Nebular" />
           <p className="font-orbitron font-bold text-xl">Night Nebular</p>
         </Link>
         <ul className="flex flex-row font-semibold text-lg w-full justify-end items-center gap-10 mr-10">

@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "fact": "La luz del Sol tarda aproximadamente 8 minutos y 20 segundos en llegar a la Tierra."
+  },
+  {
+    "id": 2,
+    "fact": "El universo tiene una edad estimada de 13.8 mil millones de años."
+  },
+  {
+    "id": 3,
+    "fact": "En el espacio no hay sonido, porque no hay aire para transmitir las ondas sonoras."
+  },
+  {
+    "id": 4,
+    "fact": "Júpiter es tan grande que todos los demás planetas del sistema solar cabrían dentro de él."
+  },
+  { "id": 5, "fact": "Un día en Venus es más largo que un año en Venus." },
+  {
+    "id": 6,
+    "fact": "La galaxia más cercana a la Vía Láctea es Andrómeda, a 2.5 millones de años luz."
+  },
+  {
+    "id": 7,
+    "fact": "Las estrellas pueden 'cantar' emitiendo vibraciones, aunque no sean audibles para el oído humano."
+  },
+  {
+    "id": 8,
+    "fact": "Los agujeros negros pueden deformar el tiempo y el espacio alrededor de ellos."
+  },
+  {
+    "id": 9,
+    "fact": "En Saturno y Júpiter podrían llover diamantes debido a la presión atmosférica."
+  },
+  {
+    "id": 10,
+    "fact": "El Sol representa el 99.8% de la masa total del sistema solar."
+  },
+  {
+    "id": 11,
+    "fact": "En el espacio, los astronautas crecen hasta 5 cm más debido a la falta de gravedad."
+  },
+  {
+    "id": 12,
+    "fact": "La Estrella de Neutrones puede girar cientos de veces por segundo."
+  },
+  {
+    "id": 13,
+    "fact": "Una sola cucharadita de materia de una estrella de neutrones pesa alrededor de 6 mil millones de toneladas."
+  },
+  {
+    "id": 14,
+    "fact": "Los cometas están compuestos principalmente de hielo, polvo y rocas."
+  },
+  {
+    "id": 15,
+    "fact": "En el espacio, tu llanto no produciría lágrimas que caigan; se quedarían flotando en tu rostro."
+  },
+  {
+    "id": 16,
+    "fact": "El espacio huele a una mezcla de metal caliente, soldadura y carne asada, según astronautas."
+  },
+  {
+    "id": 17,
+    "fact": "La Vía Láctea tiene más de 100 mil millones de estrellas."
+  },
+  {
+    "id": 18,
+    "fact": "Si pudieras viajar a la velocidad de la luz, tardarías 4 años en llegar a Próxima Centauri."
+  },
+  {
+    "id": 19,
+    "fact": "Marte tiene el volcán más grande del sistema solar: el Monte Olimpo."
+  },
+  {
+    "id": 20,
+    "fact": "Las auroras boreales se producen por partículas solares que chocan con la atmósfera terrestre."
+  },
+  {
+    "id": 21,
+    "fact": "En el espacio profundo, algunas galaxias se alejan de nosotros más rápido que la velocidad de la luz."
+  },
+  { "id": 22, "fact": "La Luna se aleja de la Tierra 3.8 cm cada año." },
+  {
+    "id": 23,
+    "fact": "Mercurio no tiene atmósfera significativa, por lo que las temperaturas varían de extremo calor a extremo frío."
+  },
+  {
+    "id": 24,
+    "fact": "Las estrellas nacen en enormes nubes de gas y polvo llamadas nebulosas."
+  },
+  {
+    "id": 25,
+    "fact": "En el centro de nuestra galaxia hay un agujero negro supermasivo llamado Sagitario A*."
+  },
+  {
+    "id": 26,
+    "fact": "Los eclipses solares totales son posibles porque el Sol es 400 veces más grande que la Luna pero también está 400 veces más lejos."
+  },
+  {
+    "id": 27,
+    "fact": "Hay más estrellas en el universo que granos de arena en todas las playas de la Tierra."
+  },
+  {
+    "id": 28,
+    "fact": "La velocidad de la luz es de 299,792 kilómetros por segundo."
+  },
+  {
+    "id": 29,
+    "fact": "Un año luz es la distancia que recorre la luz en un año: 9.46 billones de kilómetros."
+  },
+  {
+    "id": 30,
+    "fact": "El planeta más caliente del sistema solar es Venus, no Mercurio."
+  },
+  {
+    "id": 31,
+    "fact": "En el espacio, los metales pueden fusionarse sin calor gracias a la soldadura fría."
+  },
+  {
+    "id": 32,
+    "fact": "Las ondas gravitacionales son 'arrugas' en el espacio-tiempo."
+  },
+  { "id": 33, "fact": "Los anillos de Saturno están hechos de hielo y polvo." },
+  { "id": 34, "fact": "Urano rota de lado, casi completamente inclinado." },
+  {
+    "id": 35,
+    "fact": "El universo observable tiene un diámetro de unos 93 mil millones de años luz."
+  },
+  {
+    "id": 36,
+    "fact": "En la Tierra, un día dura 24 horas, pero en otros planetas puede durar miles de horas."
+  },
+  {
+    "id": 37,
+    "fact": "El núcleo del Sol alcanza temperaturas de unos 15 millones de grados Celsius."
+  },
+  {
+    "id": 38,
+    "fact": "Las galaxias pueden colisionar y fusionarse, formando nuevas galaxias."
+  },
+  {
+    "id": 39,
+    "fact": "El Big Bang no fue una explosión en el espacio, sino la expansión del espacio mismo."
+  },
+  {
+    "id": 40,
+    "fact": "En Neptuno soplan los vientos más rápidos del sistema solar, hasta 2,100 km/h."
+  },
+  {
+    "id": 41,
+    "fact": "Algunas estrellas son tan grandes que el Sol parecería una mota de polvo a su lado."
+  },
+  {
+    "id": 42,
+    "fact": "En el espacio, la temperatura puede bajar a -270°C, casi el cero absoluto."
+  },
+  { "id": 43, "fact": "Hay galaxias que contienen trillones de estrellas." },
+  {
+    "id": 44,
+    "fact": "En el futuro, la Vía Láctea y Andrómeda colisionarán, formando una nueva galaxia."
+  },
+  {
+    "id": 45,
+    "fact": "El Sol se convertirá en una gigante roja en unos 5 mil millones de años."
+  },
+  {
+    "id": 46,
+    "fact": "Las supernovas son explosiones tan brillantes que pueden eclipsar a toda una galaxia por días."
+  },
+  {
+    "id": 47,
+    "fact": "Plutón tiene 5 lunas conocidas, la más grande llamada Caronte."
+  },
+  {
+    "id": 48,
+    "fact": "Los rayos cósmicos son partículas de alta energía que viajan por el espacio."
+  },
+  {
+    "id": 49,
+    "fact": "En la Tierra vemos el Sol como es hace 8 minutos, pero en otras estrellas, lo que vemos puede tener miles de años de antigüedad."
+  },
+  {
+    "id": 50,
+    "fact": "El espacio no tiene arriba ni abajo, esas direcciones son relativas."
+  }
+]
